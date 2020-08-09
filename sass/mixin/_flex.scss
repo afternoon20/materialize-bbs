@@ -1,0 +1,7 @@
+@mixin flex($flex:flex,$row:row,$justify:flex-start,$align:center){
+  display: $flex;
+  flex-wrap: wrap;
+  flex-direction: $row;
+  justify-content: $justify; //並行方向
+  align-items: $align; //垂直方向
+}
