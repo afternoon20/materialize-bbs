@@ -7,7 +7,7 @@ CSS フレームワークには Materialize を使用しています。
 
 ## モックアップ
 
-(https://afternoon20.github.io/materialize-bbs-mock)[https://afternoon20.github.io/materialize-bbs-mock]
+[https://afternoon20.github.io/materialize-bbs-mock](https://afternoon20.github.io/materialize-bbs-mock)
 
 ## 仕様
 
